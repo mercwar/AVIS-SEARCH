@@ -108,7 +108,7 @@ It’s the **node insiders use to stay ahead of the curve.**
 ---
 
 <a href="https://mercwar01.byethost3.com/AVIS-SEARCH">
-<img src="news-screen4.png" alt="Dashboard Overview" style="max-width:90%; height:auto;">
+<img src="news-screen4.png?v=1" alt="Dashboard Overview" style="max-width:90%; height:auto;">
 </a>
 
 ---
